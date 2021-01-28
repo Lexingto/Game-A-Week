@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Outside University Game Dev Stuff/Unity Games/Survival Horror Game/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

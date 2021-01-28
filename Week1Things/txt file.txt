@@ -1,0 +1,77 @@
+Controls 
+W = Forward
+S = Backward
+A = Left
+D = Right
+
+Space = Jump
+R = Restart (for testing purposes)
+
+
+References:
+
+
+Not Used:
+
+
+Old third person camera - https://www.maxester.com/blog/2020/02/24/how-do-you-make-the-camera-follow-the-player-in-unity-3d/
+
+OldTimer - heavily altered from previous work gamedevcwk health mechanic topdownrpg game (not used due to not liking how it looks on screen)
+
+Old Button Press - https://www.soundjay.com/button-sounds-2.html (Button Sound 15)
+
+A potential Button Press Beep 9 - https://www.soundjay.com/beep-sounds-1.html
+
+old player model - https://opengameart.org/content/low-poly-base-meshes-male-female
+
+
+Used Art/Sound/Font:
+
+
+Environment
+(
+https://brokenvector.itch.io/low-poly-tree-pack
+https://brokenvector.itch.io/low-poly-rock-pack
+https://nullreference.itch.io/low-poly-islands
+)
+
+mmu for StandardAssets Pack - https://moodle.mmu.ac.uk/mod/resource/view.php?id=2307995
+
+mmu for SkyBox Images Pack - S:\Faculty_Of_Science_Engineering\Computing & Mathematics\6G4Z2103_Games_Fundamentals\Week13Assets
+
+Background Music - https://www.soundjay.com/ambient-sounds.html (Spring Weather)
+
+button press - beep 29 - https://www.soundjay.com/beep-sounds-3.html
+
+
+Bryce (character asset) - https://www.mixamo.com/#/?page=2&type=Character
+
+Jump animation - https://www.mixamo.com/#/?page=1&query=jump&type=Motion%2CMotionPack
+
+Idle animation - https://www.mixamo.com/#/?page=1&query=idle&type=Motion%2CMotionPack
+
+Walking animation - https://www.mixamo.com/#/?page=1&query=walking&type=Motion%2CMotionPack
+
+
+Used Programming:
+
+
+NewTimer - https://techwithsach.com/how-to-add-a-simple-countdown-timer-in-unity/ (edited so the numbers don't go into minus figures and so it deletes the player when timer hits 0 and loads endscene)
+
+new third person camera/movement - https://forum.unity.com/threads/third-person-camera-movement-script.858673/ (changed the Character Controller to a rigid body using the help from (https://www.youtube.com/watch?v=xvLMD2qWaKk) to make it not float and to jump and for the playing the jump sfx and added bools for animations) (changed camera to not focus on his feet and to lock the cursor on screen)
+
+BackGround Music Script - https://stackoverflow.com/questions/59086739/unity-add-background-music-on-game
+
+
+Research:
+
+
+Finding out how to change text through a script - https://stackoverflow.com/questions/19514278/3dtext-change-text-through-script-unity
+
+Finding out how to lock the cursor - https://docs.unity3d.com/ScriptReference/Cursor-lockState.html
+
+Gravity and Jump Mechanic - https://www.youtube.com/watch?v=xvLMD2qWaKk
+
+Learning about Sounds - https://gamedevbeginner.com/how-to-play-audio-in-unity-with-examples/ (Also looked at the FirstPersonController from the StandardAssets Pack)
+
+Quit Button - https://forum.unity.com/threads/how-to-make-a-quit-button-work.450973/
