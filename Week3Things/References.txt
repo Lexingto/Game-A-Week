@@ -1,0 +1,27 @@
+Controls:
+D or Right Arrow to move right
+A or Left Arrow to move left
+Space to Jump
+
+
+Programming:
+Cam/Player Script - https://moodle.mmu.ac.uk/mod/resource/view.php?id=2343216 (playerscript edited by adding the void ontriggerenter2d script & animation & ontriggerenter2d script & gravityscale in grounded if statement)
+
+Patrol.cs - https://www.youtube.com/watch?v=aRxuKoJH9Y0 (Altered to only move when the dark background is active & animation)
+
+art:
+
+background / tileset - https://mamanezakon.itch.io/forest-tileset
+
+2d character - https://rvros.itch.io/animated-pixel-hero
+
+enemy - https://luizmelo.itch.io/monsters-creatures-fantasy
+
+background2 - https://trixelized.itch.io/starstring-fields
+
+background3 - https://bakudas.itch.io/generic-platformer-pack
+
+textbubble - https://wenrexa.itch.io/assets-ui-flowers
+
+Sound:
+Background Music - https://www.soundjay.com/ambient-sounds.html (Spring Weather)
