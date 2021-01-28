@@ -1,0 +1,28 @@
+Programming:
+Player Controller - Week3 (edited)
+Dialogue System - https://www.youtube.com/watch?v=_nRzoTzeyxU
+Patrol.cs - Week3 - https://www.youtube.com/watch?v=aRxuKoJH9Y0 (edited)
+BGM.cs - https://stackoverflow.com/questions/59086739/unity-add-background-music-on-game
+
+Art:
+Character - https://darkpixel-kronovi.itch.io/rogue-knight
+Tutorial NPC - https://luizmelo.itch.io/evil-wizard-2
+NPC - https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art
+Enemy - https://elthen.itch.io/2d-pixel-art-minotaur-sprites
+Bat - https://pixelfrog-store.itch.io/pixel-adventure-2
+
+Tileset - https://szadiart.itch.io/pixel-dark-forest
+gold sprites - https://elthen.itch.io/2d-pixel-art-dungeon-collectables
+
+Song Inspiration - https://www.youtube.com/watch?v=lxRwEPvL-mQ
+
+Easter egg:
+Unsure whether i could have a link in the game - was gonna have this as the easter egg:
+https://tinyurl.com/y5td9atp
+
+SFX:
+hurt sfx - http://soundbible.com/995-Jab.html
+Jump sfx - Sonniss.com - GDC 2020 - Game Audio Bundle Part14of14 (0010_Zipper_Backpack_Variation (cut))
+whoosh sfx - https://www.fesliyanstudios.com/royalty-free-sound-effects-download/whoosh-and-swoosh-73 (Super Short Transition Whoosh A Sound Effect)
+
+Background music - https://www.freesfx.co.uk/sfx/dark (Off-World)

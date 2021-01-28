@@ -1,0 +1,3 @@
+A/Left Arrow - Left
+D/Right Arrow - Right
+Space - Jump
