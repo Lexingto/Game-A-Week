@@ -1,0 +1,17 @@
+P1:
+A - Left
+D - Right
+LCTRL - Left Air Dash
+LALT - Right Air Dash
+Space - Jump
+Q - Backwards Push
+E - Forwards Push
+
+P2:
+Left Arrow - Left
+Right Arrow - Right
+RCTRL- Left Air Dash
+RALT - Right Air Dash
+RSHIFT - Jump
+Up Arrow - Forward Push
+Down Arrow - Back Push

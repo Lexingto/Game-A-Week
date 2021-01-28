@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: f6db7a7739bbabc41b0d409539b73eff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8463976509578510899
+    second: cavesofgallet_0
+  - first:
+      213: -5106641808851244161
+    second: cavesofgallet_1
+  - first:
+      213: 2009119541316446229
+    second: cavesofgallet_2
+  - first:
+      213: -682389261442000148
+    second: cavesofgallet_3
+  - first:
+      213: 1277516445883048209
+    second: cavesofgallet_4
+  - first:
+      213: -6326503292112377119
+    second: cavesofgallet_5
+  - first:
+      213: -56386637437283842
+    second: cavesofgallet_6
+  - first:
+      213: -4041008503623721834
+    second: cavesofgallet_7
+  - first:
+      213: 5227572063702847911
+    second: cavesofgallet_8
+  - first:
+      213: -3950083539902870006
+    second: cavesofgallet_9
+  - first:
+      213: 3424081050202062557
+    second: cavesofgallet_10
+  - first:
+      213: 1711489145686251548
+    second: cavesofgallet_11
+  - first:
+      213: -6999615574410513445
+    second: cavesofgallet_12
+  - first:
+      213: 8081322915518870122
+    second: cavesofgallet_13
+  - first:
+      213: -1933271889674705620
+    second: cavesofgallet_14
+  - first:
+      213: 3612749183648266806
+    second: cavesofgallet_15
+  - first:
+      213: 795316998971944685
+    second: cavesofgallet_16
+  - first:
+      213: 1520999942789157326
+    second: cavesofgallet_17
+  - first:
+      213: 4012261107744372181
+    second: cavesofgallet_18
+  - first:
+      213: -2239430360699796366
+    second: cavesofgallet_19
+  - first:
+      213: -5959638157525770501
+    second: cavesofgallet_20
+  - first:
+      213: 5077821355146845188
+    second: cavesofgallet_21
+  - first:
+      213: -5904795273209769730
+    second: cavesofgallet_22
+  - first:
+      213: -3104567754492196626
+    second: cavesofgallet_23
+  - first:
+      213: -8456718921215721906
+    second: cavesofgallet_24
+  - first:
+      213: -2192568797255476494
+    second: cavesofgallet_25
+  - first:
+      213: -5974224235277938554
+    second: cavesofgallet_26
+  - first:
+      213: -6954036484720221722
+    second: cavesofgallet_27
+  - first:
+      213: 2076737296893638582
+    second: cavesofgallet_28
+  - first:
+      213: -8053494343572942924
+    second: cavesofgallet_29
+  - first:
+      213: 5598591903089710364
+    second: cavesofgallet_30
+  - first:
+      213: -2744732279176097970
+    second: cavesofgallet_31
+  - first:
+      213: 2427482544185586935
+    second: cavesofgallet_32
+  - first:
+      213: 5502291906677261077
+    second: cavesofgallet_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cavesofgallet_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 485
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48118437fe6d328478d0c3c13c95bee0
+      internalID: 8463976509578510899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985bd5e977ca7b64b92813d640a69598
+      internalID: -5106641808851244161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38482fd224eb94284cbbced79ab706
+      internalID: 2009119541316446229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425183d54f82384a975e59e5d82b69b
+      internalID: -682389261442000148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 469
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7ac6c339a8f7d478c105c45afae45a
+      internalID: 1277516445883048209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 464
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce72e37616f79c4e9b05a2747536fb0
+      internalID: -6326503292112377119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9b8f3b6a61d5478905c9dcc5aef70
+      internalID: -56386637437283842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 428
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6cc670b33a43f429ebaf4d248c844a
+      internalID: -4041008503623721834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 428
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51738a6f619f36f4aa0793ec5e6e9d8d
+      internalID: 5227572063702847911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 23
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957f0d29b930fc4fb7f547f3a295a12
+      internalID: -3950083539902870006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 447
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6f328bf20e234b906c1f0a263da91
+      internalID: 3424081050202062557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 353
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f34c624b285e9429283d75db6c4853
+      internalID: 1711489145686251548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 351
+        width: 8
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3be39e79dcb2147b04cef3f782de5e
+      internalID: -6999615574410513445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 351
+        width: 17
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e03d4a2762c443ae0a1ec229d27f8
+      internalID: 8081322915518870122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f691f907d80310144b8937ded3099460
+      internalID: -1933271889674705620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 497
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef215513928d88409fa4a8e60d06c5e
+      internalID: 3612749183648266806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 344
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddeba5e04230644bbe07069136e060b
+      internalID: 795316998971944685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 352
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1e24f8ed0728478b2bc88b16c6420
+      internalID: 1520999942789157326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 400
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f07c97a08094e147b62f34ebeaf2795
+      internalID: 4012261107744372181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 479
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a43641f5b516949bdbb6801f96f087
+      internalID: -2239430360699796366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 502
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a282af4e7d30f4b9ee06263f5d6239
+      internalID: -5959638157525770501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 369
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a7f74c828a88449c39b6a27a22377
+      internalID: 5077821355146845188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 416
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69addb4400f330141adcedab28f886a3
+      internalID: -5904795273209769730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 397
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e981ceebc7f0042bfe43f081d06570
+      internalID: -3104567754492196626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 382
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9049723beaea9438c24acdf3b0b69f
+      internalID: -8456718921215721906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 241
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41990ee394b968444942139ff5dbc9ba
+      internalID: -2192568797255476494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 270
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45664130cec014b9fa5e5c8d6df477
+      internalID: -5974224235277938554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd79ab7337dcdc747a54efa50ff2ff1e
+      internalID: -6954036484720221722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 412
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abbf59b39c793e418b98f0713557876
+      internalID: 2076737296893638582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 433
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d1d9805d6be8a4bac32c9cfcf2e8b6
+      internalID: -8053494343572942924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 448
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a693c2135632c7642a380da003f44477
+      internalID: 5598591903089710364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 416
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a203e0a30ec9ebb4ab49010f17528458
+      internalID: -2744732279176097970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 490
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a094b7c962f194d969902aa9b99eac
+      internalID: 2427482544185586935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavesofgallet_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 304
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902e460aa9c4c5c4b88ebda9d5259994
+      internalID: 5502291906677261077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

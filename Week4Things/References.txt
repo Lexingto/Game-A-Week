@@ -1,0 +1,13 @@
+Programming:
+cam and player scripts altered from week 3 (edited)
+online (not implemented) - Photon plugin and https://doc.photonengine.com/en-us/pun/v2/demos-and-tutorials/pun-basics-tutorial/intro
+
+Art:
+Characters - https://marwamj.itch.io/2d-free-game-character
+Background - https://adamatomic.itch.io/cavernas
+
+sound:
+punch sfx - http://soundbible.com/2069-Realistic-Punch.html
+win sfx - https://freesound.org/people/FoolBoyMedia/sounds/397434/
+fight sfx - https://freesound.org/people/bone666138/sounds/466998/
+whoosh sfx - https://freesound.org/people/qubodup/sounds/60013/ 
