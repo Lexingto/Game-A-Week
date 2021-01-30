@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-$ cat .gitattributes
-*.cs linguist-language=csharp
+* linguist-vendored
+*.cs linguist-vendored=false
