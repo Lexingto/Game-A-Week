@@ -1,0 +1,74 @@
+Controls
+(In Help Tab in-game also)
+
+        label _("Enter")
+        text _("Advances dialogue and activates the interface.")
+
+        label _("Space")
+        text _("Advances dialogue without selecting choices.")
+
+        label _("Arrow Keys")
+        text _("Navigate the interface.")
+
+        label _("Escape")
+        text _("Accesses the game menu.")
+
+        label _("Ctrl")
+        text _("Skips dialogue while held down.")
+
+        label _("Tab")
+        text _("Toggles dialogue skipping.")
+
+        label _("Page Up")
+        text _("Rolls back to earlier dialogue.")
+
+        label _("Page Down")
+        text _("Rolls forward to later dialogue.")
+
+        label "H"
+        text _("Hides the user interface.")
+
+        label "S"
+        text _("Takes a screenshot.")
+
+        label "V"
+        text _("Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.")
+
+Programming
+(the base Ren'py things when making a project but edited)
+
+Art
+(the base Ren'py things when making a project but edited)
+
+animatedbackground - https://www.youtube.com/watch?v=ApFrEZ37Osk
+
+Miu, Reina and Saki sprites- https://liah0227.itch.io/
+
+Backgrounds (Modern Background Set by Konett folder) - https://konett.itch.io/modern-visual-novel-backgrounds
+
+all of MoreBackgrounds folder - https://alte.itch.io/uncle-mugens-backgrounds & https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302#p226871
+
+Scrappy old paper (game/images/UI)- https://opengameart.org/content/paper-popup-backgrounds
+
+Sora - https://noranekogames.itch.io/sora?download
+
+Coral - https://tidylia.itch.io/visual-novel-sprite-coral
+
+Music:
+
+main menu music - https://www.youtube.com/watch?v=QNZ79OAYlgI&feature=emb_title
+
+Ingame music - https://lunalucid.itch.io/free-creative-commons-bgm-collection
+
+Ingame music - https://timbeek.itch.io/dystopian
+
+door open and close sfx - https://www.fesliyanstudios.com/royalty-free-sound-effects-download/opening-closing-door-54
+
+Button sfx - https://www.soundjay.com/mechanical-sounds-2.html
+
+Refrences
+transforms & ATL
+{
+https://www.renpy.org/doc/html/transitions.html
+https://www.renpy.org/doc/html/atl.html#atl
+}
