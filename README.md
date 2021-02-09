@@ -1,3 +1,5 @@
 # Game A Week
  
 Week 2 Game was made in Ren'py, every other game was made in Unity
+
+I only uploaded the ones I have deemed to be good. If i'd have to pick my favourite one out of the bunch here I'd have to go with my Week 6 Game followed relatively closely by my Week 4 Game. Had a bit of an experience with my Week 4 game, as you could probably see by the files I wanted to implement online functionality to it but by doing so i bit off a bit more then i could chew with it and ended up spending around 4 days on just trying to get this online too work, I ended up contacted my tutor to get help with it and ended up giving up on that because i was spending too much time on just the online part and did not have an actual game so I ended up sticking with the local multiplayer (which i implemented in just in case i could not do the online multiplayer, i did get tunnel vision on the online multiplayer looking back on this). With the game overall though it is my 2nd favourite game still because I believe it is honestly really fun.
