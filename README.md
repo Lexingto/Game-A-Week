@@ -1,2 +1,1 @@
-# Game A Week
- 
+# Week 2
